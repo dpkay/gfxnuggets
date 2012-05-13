@@ -1,0 +1,17 @@
+Metadata-Version: 1.0
+Name: gletools
+Version: 0.1.0
+Summary: Advanced opengl utilities for pyglet
+Home-page: http://hg.codeflow.org/gletools
+Author: Florian Boesch
+Author-email: pyalot@gmail.com
+License: GNU AFFERO GENERAL PUBLIC LICENSE (AGPL) Version 3
+Download-URL: http://hg.codeflow.org/
+Description: 
+            gletools
+            ~~~~~~~~
+        
+            :copyright: 2009 by Florian Boesch <pyalot@gmail.com>.
+            :license: GNU AGPL v3 or later, see LICENSE for more details.
+        
+Platform: any
